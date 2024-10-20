@@ -1,2 +1,3 @@
 Initial setup complete in file 1
 Added feature A in file 1
+Added feature B in file 1
